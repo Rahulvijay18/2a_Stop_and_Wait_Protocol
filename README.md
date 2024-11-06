@@ -39,9 +39,9 @@ while True:
 ```
 
 ## OUTPUT
-### Server
-![Screenshot 2024-08-27 091914](https://github.com/user-attachments/assets/2950c2ef-580a-439e-9cc6-642733667903)
 ### Client
+![Screenshot 2024-08-27 091914](https://github.com/user-attachments/assets/2950c2ef-580a-439e-9cc6-642733667903)
+### Server
 ![Screenshot 2024-08-27 091925](https://github.com/user-attachments/assets/cd2d70dd-f81c-4abf-874d-7bec72942e0a)
 
 ## RESULT
